@@ -44,7 +44,7 @@ Para visualizar o projeto localmente, siga os passos abaixo:
 ## 📁 Estrutura do Projeto
 
 ```
-.
+...
 ├── index.html
 ├── src/
 │   ├── images/
