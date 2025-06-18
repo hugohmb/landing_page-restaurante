@@ -43,6 +43,7 @@ Para visualizar o projeto localmente, siga os passos abaixo:
 
 ## 📁 Estrutura do Projeto
 
+```
 .
 ├── index.html
 ├── src/
@@ -65,7 +66,7 @@ Para visualizar o projeto localmente, siga os passos abaixo:
 │       ├── styles.css
 │       └── testimonials.css
 └── README.md
-
+```
 
 ## ✒️ Autor
 
