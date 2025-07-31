@@ -69,6 +69,11 @@ Para visualizar o projeto localmente, siga os passos abaixo:
 └── README.md
 ```
 
+🔗 Acesse o Site
+
+Você pode visitar e explorar a página através do GitHub Pages:
+https://hugohmb.github.io/landing_page-restaurante/
+
 ## ✒️ Autor
 
 Hugo Mendes Barbosa
