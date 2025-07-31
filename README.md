@@ -1,3 +1,4 @@
+![Landing Page: Food Delivery](https://github.com/hugohmb/landing_page-restaurante/blob/main/Captura%20de%20tela%202025-07-31%20153820.png?raw=true)
 # 🍔 Landing Page: Food Delivery
 
 Este é um projeto de uma landing page moderna e responsiva para um serviço de entrega de comida, desenvolvido como parte de uma aula de front-end. Ele visa apresentar o menu, depoimentos de clientes e informações de contato de forma intuitiva e visualmente atraente.
